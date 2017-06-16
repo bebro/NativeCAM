@@ -1331,7 +1331,7 @@ msgstr "Winkel"
 
 #: cfg/group.cfg:3
 msgid "Group"
-msgstr "Gurppierung"
+msgstr "Gruppierung"
 
 #: cfg/group.cfg:5
 msgid "<b>Group items together</b>"
